@@ -1,0 +1,21 @@
+.listas {
+    cursor: pointer;
+   
+}
+
+.listas li {
+    text-decoration-line: underline;
+}
+
+.listas li:hover {
+    text-decoration-line: none;
+}
+
+.list-group-item-warning{
+    background-color: #ffeeba;
+    color: #856404;
+}
+
+.link{ 
+    display: flex;
+}
